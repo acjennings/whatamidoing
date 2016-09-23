@@ -1,2 +1,1 @@
-# whatamidoing
-there's a snake in my boot
+Credit: [this](https://blackrockdigital.github.io/startbootstrap-landing-page/)
